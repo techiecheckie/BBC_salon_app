@@ -1,0 +1,335 @@
+{
+    "nioxinCat": [
+        {"title": "THINNING HAIR", "img": "img/generic/nioxin/thinin.png", "head": "img/products/nioxin/thin.png", "cat": "kit"},
+        {"title": "SCALP RENEW", "img": "img/generic/nioxin/sclap.png", "head": "img/products/nioxin/scalp.png", "cat": "scalp"},
+        {"title": "INTENSIVE THERAPY", "img": "img/generic/nioxin/intse.png", "head": "img/products/nioxin/intensiv.png", "cat": "intensive"},
+        {"title": "STYLING", "img": "img/generic/nioxin/stylings.png", "head": "img/products/nioxin/styling.png", "cat": "styling"}
+    ],
+    "repChargeCat": [
+        {"title": "COMBINATION", "cat": "combination"},
+        {"title": "DRY", "cat": "dry"},
+        {"title": "OILY", "cat": "oily"},
+        {"title": "PROBLEM / ACNE", "cat": "acne"},
+        {"title": "SENSITIVE / REACTIVE", "cat": "reactive"},
+        {"title": "SUN-DAMAGED / MATURE", "cat": "mature"},
+        {"title": "FIRST SIGN OF AGING", "cat": "aging"}
+    ],
+    "repProducts": [
+        {
+            "name": "Biolight",
+            "detailImage": "img/products/facial/Biolight/biobody.png",
+            "head": "img/products/facial/Biolight/biohead.png",
+            "mask": "img/products/facial/Biolight/BiolightMiracleFacial.jpg",
+            "video": "img/products/facial/Biolight/20130801_Your_Post_Summer_Sun_Body_Care_Skin_Solution.mp4",
+            "category": "mature",
+            "display": "img/products/facial/Biolight/Biolightimg.jpg"
+        },
+        {
+            "name": "Cell Renewal",
+            "detailImage": "img/products/facial/CellRenewal/cellbody.png",
+            "head": "img/products/facial/CellRenewal/cellhead.png",
+            "mask": "img/products/facial/CellRenewal/Layer_4.jpg",
+            "video": "img/products/facial/CellRenewal/diy.mp4",
+            "category": "aging",
+            "display": "img/products/facial/CellRenewal/Cell-Renewalimg.png"
+        },
+        {
+            "name": "Hydra 4",
+            "detailImage": "img/products/facial/Hydra4/hydrabody.png",
+            "head": "img/products/facial/Hydra4/hydrahead.png",
+            "mask": "img/products/facial/Hydra4/Hydra4Facial.jpg",
+            "video": "img/products/facial/Hydra4/20130618_Quick_Relief_For_Rosacea_Sensitive_Skin_Flare_Up.mp4",
+            "category": "reactive",
+            "display": "img/products/facial/Hydra4/Hydra-4img.png"
+        },
+        {
+            "name": "Hydra Dew",
+            "detailImage": "img/products/facial/HydraDew/dewbody.png",
+            "head": "img/products/facial/HydraDew/dewhead.png",
+            "mask": "img/products/facial/HydraDew/hydramask.jpg",
+            "video": "img/products/facial/HydraDew/20130205_Skin_Highlighter_and_Illuminator_Tip.mp4",
+            "category": "dry",
+            "display": "img/products/facial/HydraDew/Hydra-Dewimg.png"
+        },
+        {
+            "name": "Hydra Medic",
+            "detailImage": "img/products/facial/HydraMedic/medicbody.png",
+            "head": "img/products/facial/HydraMedic/medichead.png",
+            "mask": "img/products/facial/HydraMedic/HydraMedicFacial.jpg",
+            "video": "img/products/facial/HydraMedic/20130605_How_To_Get_Rid_Of_An_Emergency_Pimple_Before_Big_Event.mp4",
+            "category": "acne",
+            "display": "img/products/facial/HydraMedic/Hydra-Medicimg.png"
+        },
+        {
+            "name": "Hydra Refine",
+            "detailImage": "img/products/facial/HydraRefine/refinebody.png",
+            "head": "img/products/facial/HydraRefine/refinehead.png",
+            "mask": "img/products/facial/HydraRefine/HydraRefineFacial.jpg",
+            "category": "oily",
+            "display": "img/products/facial/HydraRefine/Hydra-Refineimg.png"
+        },
+        {
+            "name": "Opti-Firm",
+            "detailImage": "img/products/facial/OptiFirm/optibody.png",
+            "head": "img/products/facial/OptiFirm/optihead.png",
+            "mask": "img/products/facial/OptiFirm/3_01190012.JPG",
+            "video": "img/products/facial/OptiFirm/20130612_How_to_Correctly_Apply_An_Eye_Cream.mp4",
+            "category": "mature",
+            "display": "img/products/facial/OptiFirm/OptiFirmimg.png"
+        },
+       {
+            "name": "T-Zone Balance",
+            "detailImage": "img/products/facial/TZone/tzonebody.png",
+            "head": "img/products/facial/TZone/tzonehead.png",
+            "mask": "img/products/facial/TZone/ClassicEuro.jpg",
+            "category": "combination",
+            "display": "img/products/facial/TZone/tzonebody.jpg"
+        },
+        {
+            "name": "Vita Cura",
+            "detailImage": "img/products/facial/VitaCura/vitabody.png",
+            "head": "img/products/facial/VitaCura/vitahead.png",
+            "mask": "img/products/facial/VitaCura/VitaCuraFacial.JPG",
+            "video": "img/products/facial/VitaCura/20130312_How_to_Make_Your_Skin_Look_Smoother_and_Tighter_Instantly.mp4",
+            "category": "mature",
+            "display": "img/products/facial/VitaCura/Vita-Curaimg.png"
+        }
+
+    ],
+    "nioxinProducts": [
+        {
+            "name": "System 1",
+            "headline": "AMPLIFIES HAIR TEXTURE WHILE PROTECTING AGAINST BREAKAGE",
+            "body": "System 1 is specially designed for normal to thin-looking, fine, natural hair. It amplifies hair texture while refreshing the scalp and delivering a healthy shine.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["BioAMP", "With cystine amino acids and lightweight conditioning and treatment ingredients. Helps provide thicker-looking hair by increasing the fullness of each hair strand, reducing hair loss by strengthening against damage and breakage. "],
+                ["Transactive Delivery System", "With antioxidants, botanicals, vitamins, and purifying agents. Helps clean away follicle-clogging sebum and environmental residues from the scalp skin, giving a clean and refreshed feeling. "],
+                ["Avtic-Renewal", "With white tea extract, peppermint oil and cleansing agents. Provides a refreshed scalp environment and healthy shine to natural hair."]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/Activ_Renewal.mp4", "name": "Active Renewal"},
+                {"url": "img/products/nioxin/kits/BioAMP.mp4", "name": "BioAMP"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"},
+                {"url": "img/products/nioxin/kits/Transactive_Delivery_System.mp4", "name": "Transactive Delivery"}
+            ],
+            "images": ["img/products/nioxin/kits/System_One/box-1.png", "img/products/nioxin/kits/System_One/system1.png"],
+            "category": "kit"
+        }, {
+            "name": "System 2",
+            "headline": "DELIVERS DENSER-LOOKING HAIR WHILE STRENGTHENING AGAINST DAMAGE",
+            "body": "System 2 is specially designed for noticeably thinning, fine, natural hair. It delivers denser-looking hair and a healthy shine while protecting the scalp.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["BioAMP", "With cystine amino acids and lightweight conditioning and treatment ingredients. Helps provide thicker-looking hair by increasing the fullness of each hair strand, reducing hair loss by strengthening against damage and breakage. "],
+                ["Avtic-Renewal", "With white tea extract, peppermint oil and cleansing agents. Provides a refreshed scalp environment and healthy shine to natural hair."]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/BioAMP.mp4", "name": "BioAMP"},
+                {"url": "img/products/nioxin/kits/Activ_Renewal.mp4", "name": "Active Renewal"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"}
+            ],
+            "images": ["img/products/nioxin/kits/System_Two/box-2.png", "img/products/nioxin/kits/System_Two/system2.png"],
+            "category": "kit"
+        }, {
+            "name": "System 3",
+            "headline": "AMPLIFIES HAIR TEXTURE AND RESTORES MOISTURE BALANCE",
+            "body": "System 3 is specially designed for normal to thin-looking, fine, chemically treated hair. It amplifies hair texture while refreshing the scalp and providing moisture balance to colored hair.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["BioAMP", "With cystine amino acids and lightweight conditioning and treatment ingredients. Helps provide thicker-looking hair by increasing the fullness of each hair strand, reducing hair loss by strengthening against damage and breakage. "],
+                ["Glyco-Shield", "With white tea extract, humectants, peppermint oil, and protective conditioning agents. Dual shield technology helps provide protection and moisture balance to color-treated hair, and leaves the scalp feeling rejuvenated and refreshed. "],
+                ["Transactive Delivery System", "With antioxidants, botanicals, vitamins, and purifying agents. Helps clean away follicle-clogging sebum and environmental residues from the scalp skin, giving a clean and refreshed feeling. "]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/BioAMP.mp4", "name": "BioAMP"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"},
+                {"url": "img/products/nioxin/kits/Transactive_Delivery_System.mp4", "name": "Transactive Delivery"},
+                {"url": "img/products/nioxin/kits/Glyco_Shield.mp4", "name": "Glyco Shield"}
+            ],
+            "images": ["img/products/nioxin/kits/System_Three/box-3.png", "img/products/nioxin/kits/System_Three/system3.png"],
+            "category": "kit"
+        }, {
+            "name": "System 4",
+            "headline": "DELIVERS DENSER-LOOKING HAIR AND RESTORES MOISTURE BALANCE",
+            "body": "System 4 is specially designed for noticeably thinning, fine, chemically-treated hair. It delivers denser-looking hair while protecting the scalp and providing moisture balance to colored hair.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["BioAMP", "With cystine amino acids and lightweight conditioning and treatment ingredients. Helps provide thicker-looking hair by increasing the fullness of each hair strand, reducing hair loss by strengthening against damage and breakage. "],
+                ["Glyco-Shield", "With white tea extract, humectants, peppermint oil, and protective conditioning agents. Dual shield technology helps provide protection and moisture balance to color-treated hair, and leaves the scalp feeling rejuvenated and refreshed. "]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/BioAMP.mp4", "name": "BioAMP"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"},
+                {"url": "img/products/nioxin/kits/Glyco_Shield.mp4", "name": "Glyco Shield"}
+            ],
+            "images": ["img/products/nioxin/kits/System_Four/box-4.png", "img/products/nioxin/kits/System_Four/system4.png"],
+            "category": "kit"
+        }, {
+            "name": "System 5",
+            "headline": "FOR FULLER-LOOKING, MOISTURIZED HAIR",
+            "body": "System 5 is specially designed for normal to thin-looking, medium to coarse, natural or chemically-treated hair. It delivers smoothing control to hair while refreshing the scalp and restoring moisture balance.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["Glyco-Shield", "With white tea extract, humectants, peppermint oil, and protective conditioning agents. Dual shield technology helps provide protection and moisture balance to color-treated hair, and leaves the scalp feeling rejuvenated and refreshed. "],
+                ["Transactive Delivery System", "With antioxidants, botanicals, vitamins, and purifying agents. Helps clean away follicle-clogging sebum and environmental residues from the scalp skin, giving a clean and refreshed feeling. "],
+                ["Smoothplex", "With silk amino acids, kukui nut oil, and protective conditioning agents. Helps provide moisture balance and smoothing control, reducing hair loss by strengthening against damage and breakage."]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/Smoothplex.mp4", "name": "Smoothplex4"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"},
+                {"url": "img/products/nioxin/kits/Glyco_Shield.mp4", "name": "Glyco Shield"},
+                {"url": "img/products/nioxin/kits/Transactive_Delivery_System.mp4", "name": "Transactive Delivery"}
+            ],
+            "images": ["img/products/nioxin/kits/System_Five/box-5.png", "img/products/nioxin/kits/System_Five/system5.png"],
+            "category": "kit"
+        }, {
+            "name": "System 6",
+            "headline": "DELIVERS SMOOTHER, DENSER-LOOKING HAIR",
+            "body": "System 6 is specially designed for noticeably thinning, medium to coarse, natural or chemically-treated hair. It delivers smoothing control to hair while protecting the scalp and restoring moisture balance.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["Glyco-Shield", "With white tea extract, humectants, peppermint oil, and protective conditioning agents. Dual shield technology helps provide protection and moisture balance to color-treated hair, and leaves the scalp feeling rejuvenated and refreshed. "],
+                ["Smoothplex", "With silk amino acids, kukui nut oil, and protective conditioning agents. Helps provide moisture balance and smoothing control, reducing hair loss by strengthening against damage and breakage."]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/Smoothplex.mp4", "name": "Smoothplex4"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"},
+                {"url": "img/products/nioxin/kits/Glyco_Shield.mp4", "name": "Glyco Shield"}
+            ],
+            "images": ["img/products/nioxin/kits/System_Six/box-6.png", "img/products/nioxin/kits/System_Six/system6.png"],
+            "category": "kit"
+        }, {
+            "name": "DIAMAX",
+            "headline": "DELIVERS SMOOTHER, DENSER-LOOKING HAIR",
+            "howWorks": "NIOXIN Diamax, with a fusion of Niacinamide, Panthenol and Caffeine, is proven to:",
+            "steps": ["Increase the diameter of each existing hair strand.", "Penetrate hair and make it fuller and more manageable.", "Strenghten hair resilience against breakage."],
+            "details": [
+                ["PRODUCT GUIDE", "DiamaxTM is a leave-on treatment that can be used with the Nioxin 3-part systems for thicker, denser-looking hair."]
+            ],
+            "videos": ["img/products/nioxin/intensive/diamax.mp4"],
+            "images": ["img/products/nioxin/intensive/diamax_450x430.png"],
+            "category": "intensive"
+
+        }, {
+            "name": "DENSITY RESTORATION",
+            "headline": "RESTORES A DENSE, VIBRANT, HEALTHY APPEARANCE TO HAIR",
+            "body": "This take-home anti-breakage cosmetic hair treatment helps restore a dense, vibrant, healthy appearance to hair and helps reduce hair breakage by an average of 54%.",
+            "details": [
+                ["HOW IT WORKS", "Density Restoration contains Crystalline Infusion that provides significant anti-breakage action following your Dermabrasion Treatment."],
+                ["PRODUCT GUIDE", "Apply Density Restoration to the scalp every evening in the month after a Dermabrasion Treatment."]
+            ],
+            "images": ["img/products/nioxin/scalp/flacon_scalp.png", "img/products/nioxin/scalp/scalp_renew.png"],
+            "category": "scalp"
+        }, {
+            "name": "THERM ACTIV PROTECTOR",
+            "details": [
+                ["DESCRIPTION", "A heat-activated spray that protects hair against breakage."],
+                ["LIGHTPLEX", "LIGHTPLEX technology for lightweight effects on thinning hair: A professional technology with polymers and conditioning agents that provide light styling hold without a stiff, rigid look and feel."]
+            ],
+            "images": ["img/products/nioxin/styling/styling_prep.png"],
+            "category": "styling"
+        }
+    ],
+    "paulMitchell": [
+        {
+            "names":"HydroCream Whip",
+            "images": ["img/products/paul/paulB1.png", "img/products/paul/paulM1.png"]
+
+        }, {
+            "names":"HydroMist Blow-Out Spray",
+            "images": ["img/products/paul/paulB2.png", "img/products/paul/paulM2.png"]
+
+        }, {
+            "names":"Illuminating Shine Spray",
+            "images": ["img/products/paul/paulB3.png", "img/products/paul/paulM3.png"]
+
+        }, {
+            "names":"Keratin Cream Rinse",
+            "images": ["img/products/paul/paulB4.png", "img/products/paul/paulM4.png"]
+
+        }, {
+            "names":"Keratin Intensive Treatment",
+            "images": ["img/products/paul/paulB5.png", "img/products/paul/paulM5.png"]
+
+        }, {
+            "names":"Moisturizing Lather Shampoo",
+            "images": ["img/products/paul/paulB6.png", "img/products/paul/paulM6.png"]
+
+        }, {
+            "names":"Styling Treatment Oil",
+            "images": ["img/products/paul/paulB7.png", "img/products/paul/paulM7.png"]
+
+        }
+    ],
+    "wella": [
+        { "names": "Brilliance Shampoo for fine hair",
+            "images": ["img/products/wella/wellaB1.png", "img/products/wella/wellaM1.png"]
+
+        }, { "names" : "Brilliance Shampoo for coarse hair",
+            "images": ["img/products/wella/wellaB2.png", "img/products/wella/wellaM2.png"]
+
+        }, { "names" : "Brilliance Conditioner for fine hair",
+            "images": ["img/products/wella/wellaB3.png", "img/products/wella/wellaM3.png"]
+
+        }, { "names" : "Brilliance Conditioner for coarse hair",
+            "images": ["img/products/wella/wellaB4.png", "img/products/wella/wellaM4.png"]
+
+        }, { "names" : "Enrich Shampoo for fine hair",
+            "images": ["img/products/wella/wellaB5.png", "img/products/wella/wellaM5.png"]
+
+        }, { "names" : "Enrich Shampoo for coarse hair",
+            "images": ["img/products/wella/wellaB6.png", "img/products/wella/wellaM6.png"]
+
+        }, { "names" : "Enrich Conditioner for fine hair",
+            "images": ["img/products/wella/wellaB7.png", "img/products/wella/wellaM7.png"]
+
+        }, { "names" : "Enrich Conditioner for coarse hair",
+            "images": ["img/products/wella/wellaB8.png", "img/products/wella/wellaM8.png"]
+
+        }, { "names" : "Balanced Shampoo for scalp",
+            "images": ["img/products/wella/wellaB9.png", "img/products/wella/wellaM9.png"]
+
+        }, { "names" : "Balanced Treatment for scalp",
+            "images": ["img/products/wella/wellaB10.png", "img/products/wella/wellaM10.png"]
+
+        }, { "names" : "Age Restore Shampoo for mature hair",
+            "images": ["img/products/wella/wellaB11.png", "img/products/wella/wellaM11.png"]
+
+        }, { "names" : "Age Restore Treatment for mature hair",
+            "images": ["img/products/wella/wellaB12.png", "img/products/wella/wellaM12.png"]
+
+        }  
+    ]
+
+
+
+
+
+}
+
+

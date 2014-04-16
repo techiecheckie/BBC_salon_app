@@ -1,0 +1,60 @@
+{
+    
+    "designers" :[
+        {
+            "name":"Pina",
+            "smallURL": "img/designers/01_Pina.png",
+            "largeURL": "img/designers/Designer_Modal-1.png"
+            
+        }, {
+            "name":"Joseph",
+            "smallURL": "img/designers/02_Joseph.png",
+            "largeURL": "img/designers/Designer_Modal-2.png"
+        }, {
+            "name":"Maria",
+            "smallURL": "img/designers/03_Maria.png",
+            "largeURL": "img/designers/Designer_Modal-3.png"
+        }, {
+            "name":"Cindy",
+           "smallURL": "img/designers/04_Cindy.png",
+            "largeURL": "img/designers/Designer_Modal-4.png"
+        }, {
+            "name":"Cassandra",
+            "smallURL": "img/designers/05_Cassandra.png",
+            "largeURL": "img/designers/Designer_Modal-5.png"
+        }, {
+            "name":"Marian",
+            "smallURL": "img/designers/06_Marian.png",
+            "largeURL": "img/designers/Designer_Modal-6.png"
+        }, {
+            "name":"Audrey",
+            "smallURL": "img/designers/07_Audrey.png",
+            "largeURL": "img/designers/Designer_Modal-7.png"
+        }, {
+            "name":"Frank",
+            "smallURL": "img/designers/08_Frank.png",
+            "largeURL": "img/designers/Designer_Modal-8.png"
+        }, {
+            "name":"Vanessa",
+            "smallURL": "img/designers/09_Vanessa.png",
+            "largeURL": "img/designers/Designer_Modal-9.png"
+        }, {
+            "name":"Nick",
+            "smallURL": "img/designers/10_Nick.png",
+            "largeURL": "img/designers/Designer_Modal-10.png"
+        }, { 
+            "name":"Susan",
+            "smallURL": "img/designers/11_Susan.png",
+            "largeURL": "img/designers/Designer_Modal-11.png"
+        }, {
+            "name":"Terry",
+            "smallURL": "img/designers/12_Terry.png",
+            "largeURL": "img/designers/Designer_Modal-12.png"
+        }, {
+            "name":"Prisci",
+            "smallURL": "img/designers/13_Prisci.png",
+            "largeURL": "img/designers/Designer_Modal-13.png"
+        }
+]
+
+}
