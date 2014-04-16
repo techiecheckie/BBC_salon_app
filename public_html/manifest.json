@@ -1,0 +1,16 @@
+{
+    "name": "BBC Salon App",
+    "description": "An interactive digital sinage application for a upscale salon",
+    "version": "0.7",
+    "app": {
+        "background": {
+            "scripts": ["background.js"]
+        }
+    },
+    "icons": { "128": "bbc_logo.png"},
+    "permissions": [
+        "https://www.google-analytics.com/",
+        "storage",
+        "contextMenus"
+    ]
+}
