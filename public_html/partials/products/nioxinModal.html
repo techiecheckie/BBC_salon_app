@@ -1,0 +1,60 @@
+
+<div class="modal-body">
+    <img src="img/close.png" class="pull-right specialClose" ng-click="ok()" > 
+    <h1> {{item.name}}</h1>
+    <hr>
+
+    <div ng-switch="nioxinMPivot">
+        <div ng-switch-default class="span12"> 
+            <video ng-show="{{item.videos}}" ng-src="{{currentVideo}} "width="100%" controls autoplay>
+
+                Your browser does not support the video tag.
+            </video>
+            <div class="videoSelector" ng-show="{{item.videos.length > 1}}">
+                <div class="mButtonVideo" ng-repeat="vid in item.videos" ng-click="changeVid(vid)" >{{vid.name}}</div>
+            </div> 
+            <div class="span12">
+                <h3 align="center"> {{ item.headline}} </h3>
+
+                <p>{{item.body}}</p>
+
+
+
+
+            </div> 
+            <div class="span6 productDetails">
+
+                <h3 align="center"> {{ item.howWorks}} </h3>
+                <ol>
+                    <li ng-repeat="step in item.steps">{{step}} </li>
+                </ol>
+
+                <div class="row-fluid" ng-repeat="detail in item.details">
+                    <h4>{{detail[0]}}</h4>
+                    <p>{{detail[1]}}</p>
+                    <hr>
+                </div>
+
+
+
+            </div>
+            <div class="span5">
+                <img ng-src="{{item.images[0]}}" ng-alt="{{item.category}}">
+            </div>
+
+            <button class="mButton nioxinMbutton"  ng-click="changeBuy()">BUY NOW</button>
+            <button class="mButton nioxinMbutton"  ng-click="changeShare()">SHARE NOW</button>
+
+        </div>
+        <div ng-switch-when="buyThis">            
+            <img src="img/buyMod.png">
+        </div> 
+        <div ng-switch-when="shareThis">
+          
+            <img src="img/shareMod.png">
+        </div> 
+
+    </div>
+
+
+</div>

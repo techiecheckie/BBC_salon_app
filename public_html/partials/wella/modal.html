@@ -1,0 +1,23 @@
+ 
+
+
+<img class="PWcloseButton" src="img/close.png" ng-click="ok()">
+<div class="modal-body wellaModal">
+     
+    <div ng-switch="wellaModalPivot">
+        <div ng-switch-default>
+            <img ng-src="{{item.images[1]}}">
+            <button class="wellaMbutton paulMbutton"  ng-click="changeBuy()">BUY NOW</button>
+            <button class="wellaMbutton  paulMbutton"  ng-click="changeShare()">SHARE NOW</button>
+        </div>
+
+
+        <div ng-switch-when="buyThis">            
+            <img  src="img/buyMod.png">
+        </div> 
+        <div ng-switch-when="shareThis">
+          
+            <img src="img/shareMod.png">
+        </div> 
+    </div>
+</div>

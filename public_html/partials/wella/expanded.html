@@ -1,0 +1,6 @@
+<img id="resetButton" src="img/close.png" class="pull-right resetApp" ng-click="resetApp()" > 
+<img id="wellaLogo" src="img/products/wella/smallIdle.png"   > 
+
+<div class="span12 PaulProductContainer">
+    <img ng-repeat="item in wellaItem" ng-click="open(item)" ng-src="{{item.images[0]}}" class="wellaButton">
+</div>

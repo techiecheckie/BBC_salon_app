@@ -1,0 +1,6 @@
+<img class="pull-right resetApp" id="resetButton" src="img/close.png" ng-click="resetApp()">
+<h1 align="center">Designers</h1>
+
+<div class ="designContainer">
+            <img ng-src="{{designer.smallURL}}" ng-repeat="designer in designers" class="desIcons" ng-click="open(designer)">
+</div>

@@ -1,0 +1,25 @@
+ 
+
+
+<img class="PWcloseButton" src="img/close.png" ng-click="ok()">
+<div class="modal-body paulModal">
+    <div ng-switch="paulMPivot">
+        <div ng-switch-default>
+
+            <img ng-src="{{item.images[1]}}">
+            <button class="paulMbutton"  ng-click="changeBuy()">BUY NOW</button>
+
+            <button class="paulMbutton"  ng-click="changeShare()">SHARE NOW</button>
+
+        </div>
+
+
+        <div ng-switch-when="buyThis">            
+            <img id='buyImage' src="img/buyMod.png">
+        </div> 
+        <div ng-switch-when="shareThis">
+          
+            <img id='shareImage' src="img/shareMod.png">
+        </div>  
+    </div>
+</div>
